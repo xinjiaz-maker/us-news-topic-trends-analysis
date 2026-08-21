@@ -1,0 +1,22 @@
+source,category_topic,article_count,total_articles,percentage
+Reuters,Politics,49,135,36.3%
+Reuters,Business,28,135,20.74%
+Reuters,Law,16,135,11.85%
+Reuters,Crime,11,135,8.15%
+Reuters,Science,11,135,8.15%
+Reuters,Health,8,135,5.93%
+Reuters,World news,7,135,5.19%
+Reuters,Environment,2,135,1.48%
+Reuters,Immigration,2,135,1.48%
+Reuters,Education,1,135,0.74%
+Yahoo,Crime,280,561,49.91%
+Yahoo,Politics,86,561,15.33%
+Yahoo,Law,52,561,9.27%
+Yahoo,World news,36,561,6.42%
+Yahoo,Science,34,561,6.06%
+Yahoo,Education,30,561,5.35%
+Yahoo,Business,18,561,3.21%
+Yahoo,Immigration,16,561,2.85%
+Yahoo,Health,4,561,0.71%
+Yahoo,Environment,3,561,0.53%
+Yahoo,Other,2,561,0.36%
